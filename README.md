@@ -1,4 +1,4 @@
-# Hi, I'm Akeem Olakunle Ogundipe
+# 
 
 ## Security & Infrastructure Engineer | Applications & AI SecOps | DevSecOps Automation | Solutions & Serverless Architect | GRC & Audit Controls Specialist | Cybersecurity Researcher
 
